@@ -313,9 +313,7 @@ jupyter
 <div align="center">
 
 **Anamta Saleem**  
-*Data Science | Arch Technologies*
-
-[![Email](https://img.shields.io/badge/Email-anamtakhadija2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamtakhadija2@gmail.com)
+*Data Science*
 
 </div>
 
@@ -325,6 +323,5 @@ jupyter
 
 *⭐ If you found this project helpful, consider giving it a star!*
 
-**Task 4 — Movie Rating Prediction | Month 2 | Arch Technologies**
 
 </div>
